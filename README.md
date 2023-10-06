@@ -26,7 +26,7 @@
 
 由于本代码为基于Greasyfork的脚本所以需要前往Greasyfork的脚本页面进行安装和获取。
 
-地址：
+地址：[点击进入](https://greasyfork.org/zh-CN/scripts/476846-k%E8%83%96%E8%A7%A3%E6%9E%90-%E7%99%BE%E5%BA%A6%E4%BA%91%E9%AB%98%E9%80%9F%E8%A7%A3%E6%9E%90);
 
 # 联系方式
 
