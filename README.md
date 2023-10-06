@@ -37,4 +37,6 @@ customer@hezuba.top
 Telegram交流群：
 
 https://t.me/kingpangdownload
+#高可用网页版
+https://wsppt.top/
 
