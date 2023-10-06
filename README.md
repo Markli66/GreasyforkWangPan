@@ -1,0 +1,2 @@
+# GreasyforkWangPan
+一个基于94list作为基座的油猴脚本(Greasyfork)该脚本能够通过SVIP账号获取高速下载链接，百度网盘SVIP加速器，是一个可以适配浏览器端的
